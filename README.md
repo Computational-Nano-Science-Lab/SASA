@@ -2,7 +2,7 @@ The code helps to extract the SASA values at different frames present inside the
 
 The output format should be in .lammpstrj 
 
-usage vmd < sasa.tcl 
+usage -> vmd < sasa.tcl 
 
 
 
