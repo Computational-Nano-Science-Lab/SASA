@@ -1,9 +1,9 @@
-# Contact_Angle
+The code helps to extract the SASA values at different frames present inside the MD simulation Trajectories. 
 
-The code is to extract contact angle values from LAMMPS Trajectory files using the help of PIZZA based codes devloped by SANDIA Labrotaries. 
+The output format should be in .lammpstrj 
 
-The code is executed using the command  
+usage vmd < sasa.tcl 
 
-Python2.7 pizza.py -f Contact_angle_md.py 
+
 
 
